@@ -1,4 +1,3 @@
-gunicorn
 scikit-learn
 Flask
-pickle
+gunicorn
