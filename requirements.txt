@@ -1,4 +1,3 @@
 scikit-learn
 Flask
 gunicorn
-wsgi
